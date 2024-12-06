@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Allow access to external cache directory -->
+    <external-path
+        name="external_files"
+        path="." />
+
+    <!-- Allow access to internal files directory -->
+    <files-path
+        name="internal_files"
+        path="." />
+</paths>
